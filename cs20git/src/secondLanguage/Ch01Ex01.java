@@ -6,7 +6,7 @@ public class Ch01Ex01 {
 	int var1;
 	int var2;
 	
-	System.out.println(var3);
+	System.out.println(var3);//make this work
 
     }
 
